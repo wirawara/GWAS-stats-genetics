@@ -9,3 +9,7 @@ The content of this repository:
 * Interesting articles
 * Publicly available genetic data (raw or summarized)
 * Tools to perform statistical analyses on genetic data
+
+
+
+### Online learning material

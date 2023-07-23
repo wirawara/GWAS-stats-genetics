@@ -116,5 +116,53 @@ Watch [A Short Tutorial on Linear Mixed Model Association Testing in Genetics](h
 - [Saige](https://github.com/weizhouUMICH/SAIGE): fits generalized mixed model, imbalanced case-control outcome, rare variants 
 - [Regenie](https://rgcgithub.github.io/regenie/install/): fits generalized mixed model, fast, imbalanced case-control outcome, rare variants 
 
+## PLINK
+- An all-in-one tool for genotype data (QC, LD, PCA, association testing, ...)
+- [download](https://www.cog-genomics.org/plink/2.0/)
+- Input file formats: plink, bgen, gen, vcf
+  
+## GCTA
+- Mainly heritability estimation, but also QC and PCA
+- [download](https://cnsgenomics.com/software/gcta/#Overview)
+- Input file formats: binary plink files
+  
+## QCTOOL
+- Tool to wrangle processed genetic data (bgen, gen, vcf, plink)
+- [download](http://www.well.ox.ac.uk/~gav/qctool_v2/): Data handling, converting file formats, combining datasets
+- QC
+- PCA
+- Input file formats: many (vcf, gen, bgen, plink, ...) [check here](http://www.well.ox.ac.uk/~gav/qctool/documentation/genotype_file_formats.html)
+  
+## BEDTOOLS
+- Tool to wrangle "raw" genetic data (bed, bam, vcf, ...)
+- [download](https://github.com/arq5x/bedtools2)
+- [Cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e)
+  
+## QUICKTEST
+- Association testing
+- [download](https://wp.unil.ch/sgg/quicktest/)
 
+## SNPTEST
+- Association testing
+- [download](https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html)
+
+## emeraLD
+- LD estimation
+- [download](https://github.com/statgen/emeraLD)
+  
+## LDstore
+- LD estimation
+- [download](http://www.christianbenner.com/#ldstore)
+
+## FINEMAP
+- Fine-mapping
+- [download](http://www.christianbenner.com/): 
+- [finemap howto](https://sinarueeger.github.io/post/finemapping-howto/)
+
+## SumHer
+- [SumHer](http://dougspeed.com/sumher/)
+  - heritability estimation
+  - uses summary statistics as input
+  - [LDAK](http://dougspeed.com/ldak/) is for individual data
+  - see also http://dougspeed.com/heritability-model/
 

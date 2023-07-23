@@ -22,7 +22,6 @@ The content of this repository:
 
 * [This](https://sites.google.com/broadinstitute.com/onlinejournalclub) online **journalclub** from the Broad Institute is not active anymore.ds
 
-*  [GWAS course](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/) by Matti Pirinen
 
 
 ### Articles in Statistical Genetics

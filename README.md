@@ -77,8 +77,6 @@ Currently, 1000 Genomes Project and UK10K data are often used as **reference pan
 - [**EBI eQTL catalogue**](https://www.ebi.ac.uk/eqtl/Datasets/) lists a variety of eQTL studies using standardized analyis (download full summary statistics).
 - Table 1 in [Pasaniuc & Price (2017)](https://www.nature.com/articles/nrg.2016.142) lists publicly available summary statistics.
 
-- Looks outdated: [**PhenoScanner**](http://www.phenoscanner.medschl.cam.ac.uk/phenoscanner): lookup of curated large-scale GWAS results, takes a variant id as input.
-
 ##### Download
 Places to find full genome summary statistics:
 - [**GWAS Catalog**](https://www.genome.gov/gwastudies/) 

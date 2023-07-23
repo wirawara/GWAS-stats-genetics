@@ -84,5 +84,40 @@ Places to find full genome summary statistics:
 - dbGap
 
 
+### Software 
+
+## R packages
+
+Packages are either hosted on CRAN or [Bioconductor](https://www.bioconductor.org/).
+
+### Bioconductor packages 
+
+- [biomaRt](https://bioconductor.org/packages/release/bioc/html/biomaRt.html) + [user guide](https://bioconductor.org/packages/release/bioc/vignettes/biomaRt/inst/doc/biomaRt.html).
+
+### CRAN packages
+- [manhattanly](https://moderndata.plot.ly/manhattanly-r-package-for-interactive-manhattan-plots/) for interactive Manhattan plots. 
+- [qqman](https://cran.r-project.org/web/packages/qqman/index.html): for Manhattan plots (see DYI solution in [here](https://www.r-graph-gallery.com/wp-content/uploads/2018/02/Manhattan_plot_in_R.html)).
+- [rsnps](https://cran.r-project.org/web/packages/rsnps/): interface to SNP datasets. Check [vignette](https://cran.r-project.org/web/packages/rsnps/vignettes/rsnps_vignette.html).
+- [ggman](https://github.com/mkanai/ggman): Well done Manhattan plot in a ggplot2 look.
+- [GWAS.utils](https://github.com/sinarueeger/GWAS.utils): helper functions for genotype data and summary statistics.
+- [gaston](https://cran.r-project.org/web/packages/gaston/index.html): genetic data handeling + modelling (variety of models)
+
+#### Abbreviations
+- QC: Data quality control, handling, transformation
+- LD: Linkage disequilibrium
+- PCA: Principal component analysis
+
+##### Statistics
+Watch [A Short Tutorial on Linear Mixed Model Association Testing in Genetics](https://www.youtube.com/watch?v=pTAXVTA0YQQ) by Noah Zaitlen.
+
+##### Linear mixed effect model
+- [GEMMA](https://github.com/genetics-statistics/GEMMA)
+- [BOLT-LMM](https://alkesgroup.broadinstitute.org/BOLT-LMM/BOLT-LMM_manual.html)
+- [FaST-LMM](https://fastlmm.github.io/)
+
+###### Generalized mixed effect model
+- [Saige](https://github.com/weizhouUMICH/SAIGE): fits generalized mixed model, imbalanced case-control outcome, rare variants 
+- [Regenie](https://rgcgithub.github.io/regenie/install/): fits generalized mixed model, fast, imbalanced case-control outcome, rare variants 
+
 
 

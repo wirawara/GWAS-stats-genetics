@@ -95,11 +95,8 @@ Packages are either hosted on CRAN or [Bioconductor](https://www.bioconductor.or
 - [biomaRt](https://bioconductor.org/packages/release/bioc/html/biomaRt.html) + [user guide](https://bioconductor.org/packages/release/bioc/vignettes/biomaRt/inst/doc/biomaRt.html).
 
 ### CRAN packages
-- [manhattanly](https://moderndata.plot.ly/manhattanly-r-package-for-interactive-manhattan-plots/) for interactive Manhattan plots. 
 - [qqman](https://cran.r-project.org/web/packages/qqman/index.html): for Manhattan plots (see DYI solution in [here](https://www.r-graph-gallery.com/wp-content/uploads/2018/02/Manhattan_plot_in_R.html)).
-- [rsnps](https://cran.r-project.org/web/packages/rsnps/): interface to SNP datasets. Check [vignette](https://cran.r-project.org/web/packages/rsnps/vignettes/rsnps_vignette.html).
 - [ggman](https://github.com/mkanai/ggman): Well done Manhattan plot in a ggplot2 look.
-- [GWAS.utils](https://github.com/sinarueeger/GWAS.utils): helper functions for genotype data and summary statistics.
 - [gaston](https://cran.r-project.org/web/packages/gaston/index.html): genetic data handeling + modelling (variety of models)
 
 #### Abbreviations

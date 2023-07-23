@@ -14,10 +14,10 @@ The content of this repository:
 
 ### Online learning material
 
-Access course material [here](https://drive.google.com/file/d/1srSMRG-M-7_23ZaXVJ-oLmm_T1sSSGxP/view) by [Abdel Abdellaoui](https://twitter.com/dr_appie).
+* Access course material [here](https://drive.google.com/file/d/1srSMRG-M-7_23ZaXVJ-oLmm_T1sSSGxP/view) by [Abdel Abdellaoui](https://twitter.com/dr_appie).
 
-[**Lectures** at the Broad Institute](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS), for example the one by [Hilary Finucane](https://www.youtube.com/watch?v=mivyklWDtBI).
+* [**Lectures** at the Broad Institute](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS), for example the one by [Hilary Finucane](https://www.youtube.com/watch?v=mivyklWDtBI).
 
-The Broad Institute has some [recordings](https://sites.google.com/broadinstitute.com/onlinejournalclub/other-genetic-presentations?authuser=0) from the **"Medical Population Genetics Program"**
+* The Broad Institute has some [recordings](https://sites.google.com/broadinstitute.com/onlinejournalclub/other-genetic-presentations?authuser=0) from the **"Medical Population Genetics Program"**
 
-[This](https://sites.google.com/broadinstitute.com/onlinejournalclub) online **journalclub** from the Broad Institute is not active anymore, but has some nice recordings.
+* [This](https://sites.google.com/broadinstitute.com/onlinejournalclub) online **journalclub** from the Broad Institute is not active anymore, but has some nice recordings.

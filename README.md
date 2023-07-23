@@ -20,7 +20,9 @@ The content of this repository:
 
 * The Broad Institute has some [recordings](https://sites.google.com/broadinstitute.com/onlinejournalclub/other-genetic-presentations?authuser=0) from the **"Medical Population Genetics Program"**
 
-* [This](https://sites.google.com/broadinstitute.com/onlinejournalclub) online **journalclub** from the Broad Institute is not active anymore, but has some nice recordings.
+* [This](https://sites.google.com/broadinstitute.com/onlinejournalclub) online **journalclub** from the Broad Institute is not active anymore.ds
+
+*  [GWAS course](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/) by Matti Pirinen
 
 
 ### Articles in Statistical Genetics
